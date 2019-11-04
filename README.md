@@ -1,0 +1,2 @@
+# invalid-repo
+should fail
